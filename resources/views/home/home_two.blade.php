@@ -815,7 +815,7 @@
                     <div class="section-intro text-center row-space-6 row-space-top-8"
                         ng-if="home_city_explore.length!=0">
                         <p class="text-lead">
-                            PORQUÉ ELEGIRNOS
+                            ¿PORQUÉ ELEGIRNOS?
                         </p>
                         <h2 class="row-space-1">
                             Nuestro diferencial
