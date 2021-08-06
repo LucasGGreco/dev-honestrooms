@@ -929,7 +929,7 @@
                         id="discover-recommendations">
                         <div class="section-intro text-center row-space-6 row-space-top-8">
                             <p class="text-lead">
-                                TESTIMONIOS
+                                TESTIMONIOS <!-- COMENTARIO DE PRUEBA2 , BORRAR-->
                             </p>
                             <h2 class="row-space-1">
                                 ¿Que opinan nuestros clientes? <!-- COMENTARIO DE PRUEBA , BORRAR-->
